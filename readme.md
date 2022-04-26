@@ -1,4 +1,4 @@
-[![Linkedin: gilberto-michishita-junior](https://img.shields.io/badge/-1giba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilberto-michishita-junior/)](https://www.linkedin.com/in/gilberto-michishita-junior/)  [![GitHub 1giba](https://img.shields.io/badge/github-1codehappy-lightgrey)](https://github.com/1codehappy)  [![GitHub 1giba](https://img.shields.io/github/followers/1giba?label=follow&style=social)](https://github.com/1giba)
+[![Linkedin: gilberto-michishita-junior](https://img.shields.io/badge/-1giba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilberto-michishita-junior/)](https://www.linkedin.com/in/gilberto-michishita-junior/) [![GitLab 1giba](https://img.shields.io/badge/gitlab-1giba-orange)](https://gitlab.com/1giba) [![GitHub 1giba](https://img.shields.io/badge/github-1codehappy-lightgrey)](https://github.com/1codehappy) [![GitHub 1giba](https://img.shields.io/github/followers/1giba?label=follow&style=social)](https://github.com/1giba)
 
 Hello, I'm **Giba** 👋
 
